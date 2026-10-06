@@ -6,7 +6,7 @@ Cipher-Atelier is a place to build a research community around that curiosity. F
 
 ## Explore the work
 
-The [research index](https://github.com/Cipher-Atelier/research-index) introduces nine investigations, their sources, current results, and open questions. They include partial readings, conditional reconstructions, and tests that did not support a proposed explanation. Each project says what its evidence can establish.
+The [research index](https://github.com/Cipher-Atelier/research-index) introduces nine investigations of cipher postcards, Slovak diplomatic telegrams, and seventeenth-century cipher letters, with their sources, current results, and open questions. They include partial readings, conditional reconstructions, and tests that did not support a proposed explanation. Each project says what its evidence can establish.
 
 ## Work with us
 
