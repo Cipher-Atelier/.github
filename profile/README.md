@@ -4,6 +4,10 @@ Much remains unsolved, and humanity still has many discoveries ahead. AI can hel
 
 Cipher-Atelier is a place to build a research community around that curiosity. Founded by [Maxim Egorov](https://github.com/cayde-6), it begins with historical ciphers and welcomes questions beyond letters: manuscripts, inscriptions, unfamiliar writing systems, and other unresolved records where evidence can be studied responsibly.
 
+## A community, with credit to its creators
+
+Cipher Atelier is an informal community of people with shared research interests, not a company. We do not claim ownership of participants’ work or discoveries. Authorship, credit, and applicable rights remain with the respective creators and rights holders. For collaborative work, agree on and record each person’s contribution. This statement does not grant or change any licence.
+
 ## Explore the work
 
 The [research index](https://github.com/Cipher-Atelier/research-index) introduces nine investigations of cipher postcards, Slovak diplomatic telegrams, and seventeenth-century cipher letters, with their sources, current results, and open questions. They include partial readings, conditional reconstructions, and tests that did not support a proposed explanation. Each project says what its evidence can establish.
@@ -12,12 +16,17 @@ The [research index](https://github.com/Cipher-Atelier/research-index) introduce
 
 You can help by checking a source, improving a transcription, studying a language or historical context, testing a method, reproducing a result, or identifying a mistake. A well-documented negative result is useful too.
 
-- Pick a question in the [research index](https://github.com/Cipher-Atelier/research-index).
+We aim to advance research together, share findings, make new connections, and learn from one another. Read existing work and coordinate with researchers already studying a cipher before starting overlapping changes or reorganizing shared material. Respect ongoing efforts and avoid disrupting them. Independent verification, constructive criticism, and evidence-based alternatives remain welcome.
+
+- Follow [Start here](https://github.com/Cipher-Atelier/research-index/blob/main/START_HERE.md) to propose research, join a project, or improve documentation.
 - Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md).
 - Open an issue or submit a pull request in the relevant repository.
-- To introduce yourself or express interest in organization membership, use the [community introduction](https://github.com/Cipher-Atelier/research-index/issues/new?template=join.yml).
 
-You can contribute through issues and pull requests without organization membership. Participation is free. Organization invitations are decided manually by Maxim; an introduction does not create membership, a role, or a guaranteed review time.
+## Join the community
+
+Anyone with shared research interests may apply to join the community by emailing founder [Maxim Egorov](https://github.com/cayde-6) privately at [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer. A meaningful contribution may also lead to an invitation.
+
+Invitations are manual. Membership does not automatically grant write or administrator access to repositories; those permissions are decided separately. Participation is free, and there is no promised review time. You can contribute through public issues and pull requests without organization membership. Public research proposals and issues are not membership applications.
 
 ## Support the research
 
