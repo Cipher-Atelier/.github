@@ -2,14 +2,26 @@
 
 Thank you for helping make a question clearer, a result easier to check, or a source easier to understand. Contributions can be small. You do not need organization membership, a particular credential, or a complete solution.
 
+## A community, with credit to its creators
+
+Cipher Atelier is an informal community of people with shared research interests, not a company. We do not claim ownership of participants’ work or discoveries. Authorship, credit, and applicable rights remain with the respective creators and rights holders. For collaborative work, agree on and record each person’s contribution. This statement does not grant or change any licence.
+
 ## Start with one question
+
+Follow [Start here](https://github.com/Cipher-Atelier/research-index/blob/main/START_HERE.md) to propose a new investigation, join existing research, or improve the documentation. New organization repositories are created by Maxim after manual approval of a public research proposal. You can contribute through a fork and pull request without organization membership.
 
 1. Read the project’s README, sources, and open issues.
 2. Choose a bounded question or improvement.
 3. Open an issue for a source lead, proposed experiment, or interpretation. For an edit, fork the repository and submit a pull request.
 4. Explain what changed, why it matters, and how someone else can check it.
 
-Use the [research index](https://github.com/Cipher-Atelier/research-index) to find a project. Introductions and membership interest belong in its community introduction issue. The founder, [Maxim Egorov](https://github.com/cayde-6), decides invitations manually. Issues and pull requests are open to contributors without organization membership. There is no participation fee, automatic role, or promised review time.
+Use the [research index](https://github.com/Cipher-Atelier/research-index) to find a project.
+
+## Join the community
+
+Anyone with shared research interests may apply to join the community by emailing founder [Maxim Egorov](https://github.com/cayde-6) privately at [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer. A meaningful contribution may also lead to an invitation.
+
+Invitations are manual. Membership does not automatically grant write or administrator access to repositories; those permissions are decided separately. Participation is free, and there is no promised review time. You can contribute through public issues and pull requests without organization membership. Public research proposals and issues are not membership applications.
 
 ## Keep the evidence visible
 
@@ -53,5 +65,7 @@ Do not upload private correspondence, personal contact details, credentials, res
 ## Work well together
 
 Follow the [code of conduct](CODE_OF_CONDUCT.md). Critique a claim with evidence, welcome corrections, and make disagreement useful. Ask before undertaking a large reorganization, and keep unrelated changes out of a pull request.
+
+We aim to advance research together, share findings, make new connections, and learn from one another. Read existing work and coordinate with researchers already studying a cipher before starting overlapping changes or reorganizing shared material. Respect ongoing efforts and avoid disrupting them. Independent verification, constructive criticism, and evidence-based alternatives remain welcome.
 
 Review may lead to questions, revisions, or a decision not to merge. A merged contribution records work accepted into the project; it does not by itself certify a historical claim.
