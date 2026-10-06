@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Propose new research
+    url: https://github.com/Cipher-Atelier/research-index/issues/new?template=research-proposal.yml
+    about: Propose an investigation or request public hosting in the research index.
