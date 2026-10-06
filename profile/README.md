@@ -19,6 +19,12 @@ You can help by checking a source, improving a transcription, studying a languag
 
 You can contribute through issues and pull requests without organization membership. Participation is free. Organization invitations are decided manually by Maxim; an introduction does not create membership, a role, or a guaranteed review time.
 
+## Support the research
+
+[Support Maxim’s work on Cipher Atelier](https://github.com/sponsors/cayde-6).
+
+Donations will fund research-related subscriptions for community participants and paid research requests to libraries, archives, and other organizations. Receipts and supporting expense records will be available on request, with personal and payment information redacted. Contributions are received through founder Maxim Egorov’s personal GitHub Sponsors account, rather than a separate organization fund.
+
 ## Our approach
 
 Follow the source. Preserve uncertainty. Credit earlier work. Make tests repeatable. Separate what was observed from what was inferred.
