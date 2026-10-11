@@ -10,9 +10,12 @@
 
 <!-- What remains partial, conditional, or unverified? Identify inherited keys/readings, prior work, alternative explanations, and relevant AI assistance. Keep literal output separate from editorial reconstruction or translation. -->
 
+<!-- When a contribution changes the reading, evidence availability, uncertainty or reproduction procedure, update the project README and reading index in the same PR. Preserve earlier frozen results. Link the current literal and interpretation separately, explain what changed, and state which checks include the new material. -->
+
 ## Ready for review
 
 - [ ] I kept the change focused and linked related work where relevant.
+- [ ] I updated the reader-facing status, evidence links and reproduction scope, or explained why this change does not affect them.
 - [ ] Sources and authors are credited; included material can be shared under its applicable terms.
 - [ ] I removed private data and documented access or reproduction limits.
 - [ ] The summary matches the evidence, including negative results and unresolved questions.

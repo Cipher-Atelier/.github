@@ -6,6 +6,10 @@ Cipher-Atelier is a place to build a research community around that curiosity. F
 
 Cipher Atelier is an informal research community, not a company. We claim no ownership of participants’ work or discoveries. Authorship, credit and rights remain with the respective creators and rights holders; collaborative work credits each person’s contribution.
 
+## Read the evidence
+
+New to historical ciphers? The [research index](https://github.com/Cipher-Atelier/research-index) shows what can currently be read, what remains uncertain, and how to check one example without programming. Each investigation separates source evidence, literal output and interpretation. Passing a replay checks the declared files and calculations; it does not establish historical truth.
+
 ## Explore and contribute
 
 The [research index](https://github.com/Cipher-Atelier/research-index) introduces nine investigations, their partial or conditional results, and open questions.
