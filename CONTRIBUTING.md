@@ -50,6 +50,8 @@ Keep negative results and model limits. Say which finite family was tested; avoi
 
 If essential evidence cannot be shared, state that limitation. Do not describe the package as fully reproducible.
 
+When a contribution changes the reading, evidence availability, uncertainty or reproduction procedure, update the project README and reading index in the same PR. Preserve earlier frozen results. Link the current literal and interpretation separately, explain what changed, and state which checks include the new material.
+
 ## Use AI transparently
 
 AI can assist with transcription, research, coding, analysis, and writing. State its relevant role, the model or tool when known, and how you checked its output. Include prompts or settings when they materially affect reproducibility and are safe to share.
