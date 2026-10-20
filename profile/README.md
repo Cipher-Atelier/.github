@@ -1,8 +1,8 @@
-# Cipher-Atelier
+# Cipher Atelier
 
 Much remains unsolved, and humanity still has many discoveries ahead. AI can help us explore those questions, compare evidence, and test ideas. Careful sources, reproducible methods, and human judgment make that work meaningful.
 
-Cipher-Atelier is a place to build a research community around that curiosity. Founded by [Maxim Egorov](https://github.com/cayde-6), it begins with historical ciphers and welcomes questions beyond letters: manuscripts, inscriptions, unfamiliar writing systems, and other unresolved records where evidence can be studied responsibly.
+Cipher Atelier is a place to build a research community around that curiosity. Founded by [Maxim Egorov](https://github.com/cayde-6), it begins with historical ciphers and welcomes questions beyond letters: manuscripts, inscriptions, unfamiliar writing systems, and other unresolved records where evidence can be studied responsibly.
 
 Cipher Atelier is an informal research community, not a company. We claim no ownership of participants’ work or discoveries. Authorship, credit and rights remain with the respective creators and rights holders; collaborative work credits each person’s contribution.
 

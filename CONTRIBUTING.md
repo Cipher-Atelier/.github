@@ -1,4 +1,4 @@
-# Contributing to Cipher-Atelier
+# Contributing to Cipher Atelier
 
 Thank you for helping make a question clearer, a result easier to check, or a source easier to understand. Contributions can be small. You do not need organization membership, a particular credential, or a complete solution.
 

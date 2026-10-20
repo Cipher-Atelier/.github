@@ -1,6 +1,6 @@
 # Community code of conduct
 
-Cipher-Atelier welcomes people who want to learn, test ideas, and improve the evidence together. Expertise can take many forms, and newcomers are welcome.
+Cipher Atelier welcomes people who want to learn, test ideas, and improve the evidence together. Expertise can take many forms, and newcomers are welcome.
 
 ## What we ask
 
@@ -22,4 +22,4 @@ For sensitive or abusive content, use GitHub’s built-in reporting and blocking
 
 The founder and authorized maintainers may request changes, remove harmful content, close a discussion, or restrict participation when needed to protect the community. Context and severity matter. Membership or past contributions do not exempt anyone from these expectations.
 
-This code applies to Cipher-Atelier repositories, issues, pull requests, and other spaces explicitly maintained for the project.
+This code applies to Cipher Atelier repositories, issues, pull requests, and other spaces explicitly maintained for the project.
