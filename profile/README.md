@@ -6,6 +6,12 @@ Cipher Atelier is a place to build a research community around that curiosity. F
 
 Cipher Atelier is an informal research community, not a company. We claim no ownership of participants’ work or discoveries. Authorship, credit and rights remain with the respective creators and rights holders; collaborative work credits each person’s contribution.
 
+## Contributions to HCPortal
+
+Our [Anna Tichá postcard research](https://github.com/Cipher-Atelier/anna-ticha-cipher-postcards) is represented in [HCPortal’s AI decipherments register](https://ai.hcportal.eu/register/?q=Maxim+Egorov&size=all#register): **154 card entries credit “Maxim Egorov / Cipher-Atelier”**, with links to our readings and recorded methods (checked 30 October 2026). [HCPortal](https://hcportal.eu/about.html) provides historical-cipher databases, analysis tools and educational resources, developed since 2016.
+
+[Eugen Antal](https://hcportal.eu/contributors.html) of the Slovak University of Technology in Bratislava manually reviewed the transcriptions and Czech readings of **cards 320 and 321**. His corrections are incorporated in the published texts; the [review record](https://github.com/Cipher-Atelier/anna-ticha-cipher-postcards/blob/main/research-updates/2026-10-29-antal-review/README.md) explains the changes and remaining questions. Register inclusion credits the contribution; it does not validate all 154 readings, which include partial and provisional proposals.
+
 ## Read the evidence
 
 New to historical ciphers? The [research index](https://github.com/Cipher-Atelier/research-index) shows what can currently be read, what remains uncertain, and how to check one example without programming. Each investigation separates source evidence, literal output and interpretation. Passing a replay checks the declared files and calculations; it does not establish historical truth.
